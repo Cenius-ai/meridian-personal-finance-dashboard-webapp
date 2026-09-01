@@ -1,0 +1,47 @@
+/* Meridian theme tokens — committed design direction (Dark Precision, OLED). */
+
+:root {
+  /* Full committed token set */
+  --card: #15171c;
+  --ring: #ed7940;
+  --muted: #1f2227;
+  --accent: #ed7940;
+  --border: #2b2e33;
+  --primary: #e3e5e8;
+  --on-accent: #111111;
+  --secondary: #1f2227;
+  --background: #0a0c11;
+  --foreground: #eef0f4;
+  --on-primary: #111111;
+  --destructive: #c9302d;
+  --on-secondary: #eef0f4;
+  --on-destructive: #ffffff;
+  --card-foreground: #eef0f4;
+  --muted-foreground: #9b9fa5;
+
+  /* Derived, non-fingerprint design constants */
+  --font-heading: "Plus Jakarta Sans", "Public Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-body: "Public Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --radius: 12px;
+  --radius-sm: 8px;
+  --accent-glow: 0 0 24px rgba(237, 121, 64, 0.25);
+  --focus-ring: 0 0 0 3px rgba(237, 121, 64, 0.30);
+  --accent-rgb: 237, 121, 64;
+}
+
+/* Vendored fonts (latin variable subsets) — no network at runtime. */
+@font-face {
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 300 800;
+  font-display: swap;
+  src: url("/assets/fonts/plus-jakarta-sans-latin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Public Sans";
+  font-style: normal;
+  font-weight: 300 800;
+  font-display: swap;
+  src: url("/assets/fonts/public-sans-latin.woff2") format("woff2");
+}
