@@ -1,0 +1,601 @@
+id,date,merchant,category,category_color,account,method,amount_cents,currency,notes
+10,2023-07-01,Trader Joe's,Food,#ed7940,High-Yield Savings,ACH Transfer,12538,USD,Split payment
+17,2023-07-01,Shell,Transportation,#45b7a4,Amex Platinum,Debit Card,510,USD,Gift for Sam
+46,2023-07-01,Airbnb,Travel,#6f7bd6,Everyday Checking,Debit Card,2931,USD,Home office
+21,2023-07-02,Metro Transit,Transportation,#45b7a4,Amex Platinum,Debit Card,1912,USD,
+26,2023-07-02,Powell's Books,Entertainment,#b07ce8,High-Yield Savings,Credit Card,1384,USD,Date night
+28,2023-07-02,Steam,Entertainment,#b07ce8,Amex Platinum,Credit Card,5874,USD,Split payment
+13,2023-07-03,Trader Joe's,Food,#ed7940,Sapphire Card,Credit Card,6992,USD,Split payment
+7,2023-07-04,Chipotle,Food,#ed7940,High-Yield Savings,Cash,15692,USD,
+40,2023-07-04,Best Buy,Shopping,#e0647f,Sapphire Card,Credit Card,22900,USD,Renewal
+31,2023-07-05,Comcast,Utilities,#e0b64a,Amex Platinum,Cash,6671,USD,Reimbursed by work
+36,2023-07-05,Target,Shopping,#e0647f,Everyday Checking,Credit Card,10244,USD,Split payment
+41,2023-07-05,CVS Pharmacy,Healthcare,#58b86a,Sapphire Card,Credit Card,11513,USD,Split payment
+3,2023-07-06,Local Farmers Market,Food,#ed7940,Amex Platinum,Credit Card,7376,USD,Reimbursed by work
+32,2023-07-06,Comcast,Utilities,#e0b64a,Amex Platinum,ACH Transfer,7673,USD,
+16,2023-07-07,Meridian Property Mgmt,Housing,#4f8fdf,Amex Platinum,Cash,192154,USD,Renewal
+38,2023-07-09,Uniqlo,Shopping,#e0647f,Amex Platinum,Credit Card,31543,USD,Weekly groceries
+9,2023-07-11,Trader Joe's,Food,#ed7940,Sapphire Card,Cash,8701,USD,Gift for Sam
+18,2023-07-12,Shell,Transportation,#45b7a4,Everyday Checking,ACH Transfer,4567,USD,Split payment
+34,2023-07-12,Comcast,Utilities,#e0b64a,Sapphire Card,ACH Transfer,6778,USD,Weekly groceries
+5,2023-07-14,Trader Joe's,Food,#ed7940,Sapphire Card,Credit Card,813,USD,Split payment
+25,2023-07-14,Netflix,Entertainment,#b07ce8,Amex Platinum,Debit Card,5971,USD,Split with Maya
+42,2023-07-14,Optical Center,Healthcare,#58b86a,Sapphire Card,Debit Card,10169,USD,Home office
+43,2023-07-14,CVS Pharmacy,Healthcare,#58b86a,Amex Platinum,Debit Card,6028,USD,
+2,2023-07-15,Chipotle,Food,#ed7940,Sapphire Card,Debit Card,1009,USD,Split payment
+6,2023-07-15,Seamless,Food,#ed7940,Everyday Checking,Cash,3574,USD,Gift for Sam
+23,2023-07-16,Shell,Transportation,#45b7a4,Everyday Checking,ACH Transfer,1795,USD,
+35,2023-07-16,Best Buy,Shopping,#e0647f,High-Yield Savings,Debit Card,28101,USD,Split payment
+49,2023-07-16,Marriott,Travel,#6f7bd6,Sapphire Card,ACH Transfer,2656,USD,Monthly subscription
+8,2023-07-17,Blue Bottle Coffee,Food,#ed7940,Sapphire Card,ACH Transfer,7492,USD,Gift for Sam
+47,2023-07-17,Airport Parking,Travel,#6f7bd6,Amex Platinum,Debit Card,9132,USD,Reimbursed by work
+12,2023-07-18,Corner Deli,Food,#ed7940,Amex Platinum,Cash,1178,USD,Gift for Sam
+15,2023-07-18,Harbor Rentals,Housing,#4f8fdf,Everyday Checking,Cash,166306,USD,Split with Maya
+48,2023-07-18,Hertz,Travel,#6f7bd6,Everyday Checking,Credit Card,5777,USD,Split with Maya
+20,2023-07-19,Uber,Transportation,#45b7a4,High-Yield Savings,ACH Transfer,3508,USD,Renewal
+14,2023-07-20,Levain Bakery,Food,#ed7940,Sapphire Card,Credit Card,864,USD,Split payment
+27,2023-07-21,Spotify,Entertainment,#b07ce8,Everyday Checking,Credit Card,5257,USD,Gift for Sam
+50,2023-07-21,Amtrak,Travel,#6f7bd6,High-Yield Savings,Debit Card,5410,USD,Split payment
+1,2023-07-22,Shake Shack,Food,#ed7940,Amex Platinum,Credit Card,6921,USD,Weekly groceries
+29,2023-07-22,Live Nation,Entertainment,#b07ce8,Everyday Checking,ACH Transfer,5533,USD,
+39,2023-07-22,Best Buy,Shopping,#e0647f,Sapphire Card,Cash,1771,USD,Family visit
+4,2023-07-23,Chipotle,Food,#ed7940,Sapphire Card,Debit Card,1193,USD,Split payment
+24,2023-07-24,ParkMobile,Transportation,#45b7a4,Amex Platinum,Debit Card,579,USD,Split with Maya
+22,2023-07-25,Shell,Transportation,#45b7a4,Everyday Checking,ACH Transfer,308,USD,Reimbursed by work
+19,2023-07-26,Shell,Transportation,#45b7a4,Everyday Checking,Debit Card,308,USD,Weekly groceries
+37,2023-07-26,Uniqlo,Shopping,#e0647f,Everyday Checking,Cash,10060,USD,Date night
+30,2023-07-27,Live Nation,Entertainment,#b07ce8,Everyday Checking,Debit Card,6250,USD,
+33,2023-07-27,ConEdison,Utilities,#e0b64a,Sapphire Card,ACH Transfer,4851,USD,Renewal
+11,2023-07-28,Levain Bakery,Food,#ed7940,Amex Platinum,ACH Transfer,11527,USD,Renewal
+44,2023-07-28,CityMed Urgent Care,Healthcare,#58b86a,Sapphire Card,Debit Card,11941,USD,
+45,2023-07-28,Airport Parking,Travel,#6f7bd6,Amex Platinum,ACH Transfer,3216,USD,
+55,2023-08-01,Whole Foods Market,Food,#ed7940,Sapphire Card,Cash,5884,USD,Family visit
+97,2023-08-01,Airport Parking,Travel,#6f7bd6,Everyday Checking,Debit Card,24435,USD,
+98,2023-08-01,Hertz,Travel,#6f7bd6,Everyday Checking,Cash,7704,USD,Gift for Sam
+51,2023-08-02,Whole Foods Market,Food,#ed7940,Sapphire Card,Credit Card,8077,USD,Split with Maya
+60,2023-08-02,Whole Foods Market,Food,#ed7940,Amex Platinum,Credit Card,4062,USD,Reimbursed by work
+79,2023-08-02,Steam,Entertainment,#b07ce8,Sapphire Card,Credit Card,3130,USD,Weekly groceries
+99,2023-08-04,Delta Air Lines,Travel,#6f7bd6,Amex Platinum,Cash,49314,USD,Split with Maya
+84,2023-08-05,City Water Board,Utilities,#e0b64a,Everyday Checking,Debit Card,5981,USD,Monthly subscription
+86,2023-08-05,Amazon,Shopping,#e0647f,Everyday Checking,ACH Transfer,34571,USD,Weekly groceries
+95,2023-08-06,Delta Air Lines,Travel,#6f7bd6,Everyday Checking,Debit Card,3435,USD,Weekly groceries
+70,2023-08-07,Uber,Transportation,#45b7a4,Amex Platinum,ACH Transfer,3509,USD,Split payment
+74,2023-08-07,Shell,Transportation,#45b7a4,Amex Platinum,Debit Card,1775,USD,Monthly subscription
+93,2023-08-07,CVS Pharmacy,Healthcare,#58b86a,Sapphire Card,ACH Transfer,30680,USD,Monthly subscription
+54,2023-08-09,Whole Foods Market,Food,#ed7940,Amex Platinum,Cash,14666,USD,Split payment
+83,2023-08-09,Verizon Wireless,Utilities,#e0b64a,Everyday Checking,Debit Card,6153,USD,
+61,2023-08-10,Seamless,Food,#ed7940,Sapphire Card,ACH Transfer,2215,USD,Split payment
+69,2023-08-10,Shell,Transportation,#45b7a4,Sapphire Card,Credit Card,2025,USD,Reimbursed by work
+82,2023-08-10,City Water Board,Utilities,#e0b64a,Everyday Checking,Credit Card,6255,USD,Split payment
+85,2023-08-10,Target,Shopping,#e0647f,High-Yield Savings,ACH Transfer,15420,USD,Monthly subscription
+80,2023-08-11,AMC Theatres,Entertainment,#b07ce8,Amex Platinum,Credit Card,8152,USD,
+68,2023-08-12,ParkMobile,Transportation,#45b7a4,Sapphire Card,Credit Card,7441,USD,Split payment
+73,2023-08-12,Zipcar,Transportation,#45b7a4,Sapphire Card,Cash,384,USD,Monthly subscription
+58,2023-08-13,Sweetgreen,Food,#ed7940,Everyday Checking,Debit Card,628,USD,Date night
+96,2023-08-13,Marriott,Travel,#6f7bd6,Sapphire Card,Cash,1938,USD,Split payment
+65,2023-08-14,Homeshield Insurance,Housing,#4f8fdf,Everyday Checking,Debit Card,5732,USD,
+59,2023-08-15,Local Farmers Market,Food,#ed7940,Amex Platinum,ACH Transfer,848,USD,Home office
+66,2023-08-15,Homeshield Insurance,Housing,#4f8fdf,Amex Platinum,Credit Card,9202,USD,Home office
+71,2023-08-15,Lyft,Transportation,#45b7a4,Everyday Checking,ACH Transfer,2234,USD,Gift for Sam
+62,2023-08-17,Chipotle,Food,#ed7940,Sapphire Card,Credit Card,14776,USD,
+63,2023-08-17,Whole Foods Market,Food,#ed7940,Sapphire Card,ACH Transfer,959,USD,Reimbursed by work
+81,2023-08-17,ConEdison,Utilities,#e0b64a,High-Yield Savings,Cash,6925,USD,Weekly groceries
+57,2023-08-18,Shake Shack,Food,#ed7940,Amex Platinum,ACH Transfer,1379,USD,Reimbursed by work
+100,2023-08-18,Airbnb,Travel,#6f7bd6,High-Yield Savings,Cash,9154,USD,
+77,2023-08-19,Live Nation,Entertainment,#b07ce8,Sapphire Card,Cash,1437,USD,
+90,2023-08-19,Best Buy,Shopping,#e0647f,Sapphire Card,Cash,2825,USD,Split payment
+94,2023-08-19,CVS Pharmacy,Healthcare,#58b86a,Amex Platinum,Credit Card,22823,USD,Family visit
+52,2023-08-20,Blue Bottle Coffee,Food,#ed7940,Sapphire Card,Debit Card,6948,USD,
+87,2023-08-20,Target,Shopping,#e0647f,High-Yield Savings,Debit Card,30657,USD,Weekly groceries
+76,2023-08-21,AMC Theatres,Entertainment,#b07ce8,Sapphire Card,Credit Card,1190,USD,Gift for Sam
+53,2023-08-22,Levain Bakery,Food,#ed7940,Sapphire Card,Cash,2067,USD,Gift for Sam
+88,2023-08-22,IKEA,Shopping,#e0647f,High-Yield Savings,Cash,9292,USD,
+91,2023-08-22,CityMed Urgent Care,Healthcare,#58b86a,Amex Platinum,Debit Card,3826,USD,
+72,2023-08-23,Lyft,Transportation,#45b7a4,Amex Platinum,Credit Card,3854,USD,Date night
+75,2023-08-24,Live Nation,Entertainment,#b07ce8,High-Yield Savings,ACH Transfer,5264,USD,Renewal
+89,2023-08-24,Sephora,Shopping,#e0647f,Everyday Checking,Credit Card,29698,USD,Home office
+64,2023-08-25,Chipotle,Food,#ed7940,Amex Platinum,Debit Card,6743,USD,Split payment
+92,2023-08-26,Wellness Pharmacy,Healthcare,#58b86a,Everyday Checking,ACH Transfer,3088,USD,
+67,2023-08-27,ParkMobile,Transportation,#45b7a4,Everyday Checking,ACH Transfer,1266,USD,
+78,2023-08-27,Netflix,Entertainment,#b07ce8,Amex Platinum,Debit Card,5364,USD,Date night
+56,2023-08-28,Seamless,Food,#ed7940,Everyday Checking,Credit Card,9339,USD,
+106,2023-09-01,Sweetgreen,Food,#ed7940,High-Yield Savings,Cash,860,USD,Home office
+119,2023-09-01,Lyft,Transportation,#45b7a4,High-Yield Savings,ACH Transfer,3742,USD,Gift for Sam
+122,2023-09-01,Shell,Transportation,#45b7a4,Sapphire Card,Debit Card,654,USD,
+132,2023-09-01,ConEdison,Utilities,#e0b64a,Everyday Checking,ACH Transfer,8220,USD,Monthly subscription
+138,2023-09-01,Target,Shopping,#e0647f,Sapphire Card,ACH Transfer,30424,USD,Home office
+126,2023-09-02,Spotify,Entertainment,#b07ce8,Amex Platinum,ACH Transfer,10104,USD,Weekly groceries
+105,2023-09-03,Trader Joe's,Food,#ed7940,High-Yield Savings,Debit Card,7228,USD,Split with Maya
+144,2023-09-03,CityMed Urgent Care,Healthcare,#58b86a,High-Yield Savings,ACH Transfer,21632,USD,
+146,2023-09-03,Hertz,Travel,#6f7bd6,Sapphire Card,ACH Transfer,2673,USD,
+104,2023-09-04,Whole Foods Market,Food,#ed7940,High-Yield Savings,Debit Card,1225,USD,Split payment
+107,2023-09-04,Corner Deli,Food,#ed7940,Everyday Checking,Debit Card,532,USD,Split payment
+109,2023-09-04,Shake Shack,Food,#ed7940,Amex Platinum,Cash,8757,USD,Monthly subscription
+112,2023-09-04,Seamless,Food,#ed7940,Sapphire Card,ACH Transfer,1297,USD,Split payment
+124,2023-09-04,Shell,Transportation,#45b7a4,Everyday Checking,Credit Card,435,USD,Renewal
+118,2023-09-05,Uber,Transportation,#45b7a4,Sapphire Card,ACH Transfer,6600,USD,
+121,2023-09-05,Shell,Transportation,#45b7a4,Sapphire Card,Credit Card,4270,USD,Renewal
+110,2023-09-06,Seamless,Food,#ed7940,Everyday Checking,Cash,6856,USD,
+111,2023-09-06,Chipotle,Food,#ed7940,Amex Platinum,Cash,3540,USD,Weekly groceries
+113,2023-09-06,Shake Shack,Food,#ed7940,Sapphire Card,Cash,4678,USD,Home office
+133,2023-09-07,City Water Board,Utilities,#e0b64a,Amex Platinum,Debit Card,9431,USD,Weekly groceries
+140,2023-09-07,Uniqlo,Shopping,#e0647f,High-Yield Savings,Debit Card,27874,USD,Renewal
+125,2023-09-08,AMC Theatres,Entertainment,#b07ce8,High-Yield Savings,Debit Card,11033,USD,Family visit
+142,2023-09-08,CityMed Urgent Care,Healthcare,#58b86a,Sapphire Card,ACH Transfer,8197,USD,
+148,2023-09-09,Amtrak,Travel,#6f7bd6,Amex Platinum,ACH Transfer,3448,USD,
+116,2023-09-10,Homeshield Insurance,Housing,#4f8fdf,Amex Platinum,Cash,186812,USD,Monthly subscription
+117,2023-09-10,Metro Transit,Transportation,#45b7a4,Sapphire Card,ACH Transfer,345,USD,
+131,2023-09-11,ConEdison,Utilities,#e0b64a,Sapphire Card,Credit Card,5572,USD,Date night
+147,2023-09-11,Hertz,Travel,#6f7bd6,Everyday Checking,Cash,3107,USD,Weekly groceries
+139,2023-09-12,IKEA,Shopping,#e0647f,Amex Platinum,Cash,25299,USD,Split with Maya
+103,2023-09-13,Chipotle,Food,#ed7940,Amex Platinum,Cash,7072,USD,
+141,2023-09-13,CityMed Urgent Care,Healthcare,#58b86a,Everyday Checking,ACH Transfer,20921,USD,Reimbursed by work
+108,2023-09-14,Chipotle,Food,#ed7940,Amex Platinum,ACH Transfer,8625,USD,Split payment
+143,2023-09-15,Wellness Pharmacy,Healthcare,#58b86a,High-Yield Savings,ACH Transfer,23879,USD,
+149,2023-09-16,Airbnb,Travel,#6f7bd6,Everyday Checking,Cash,7269,USD,
+130,2023-09-17,Powell's Books,Entertainment,#b07ce8,High-Yield Savings,Debit Card,3098,USD,Split payment
+101,2023-09-18,Seamless,Food,#ed7940,Amex Platinum,Debit Card,5810,USD,Weekly groceries
+150,2023-09-18,Airbnb,Travel,#6f7bd6,Everyday Checking,ACH Transfer,10565,USD,Split with Maya
+115,2023-09-20,Eastside Apartments,Housing,#4f8fdf,Sapphire Card,ACH Transfer,5601,USD,
+120,2023-09-22,ParkMobile,Transportation,#45b7a4,Amex Platinum,Debit Card,3398,USD,Split payment
+127,2023-09-22,Spotify,Entertainment,#b07ce8,Amex Platinum,Credit Card,1164,USD,
+129,2023-09-22,Live Nation,Entertainment,#b07ce8,High-Yield Savings,ACH Transfer,2065,USD,Renewal
+134,2023-09-22,Verizon Wireless,Utilities,#e0b64a,High-Yield Savings,Credit Card,7910,USD,Family visit
+135,2023-09-22,Best Buy,Shopping,#e0647f,High-Yield Savings,Cash,30793,USD,
+123,2023-09-23,Metro Transit,Transportation,#45b7a4,Everyday Checking,Credit Card,464,USD,Gift for Sam
+136,2023-09-23,Amazon,Shopping,#e0647f,Sapphire Card,Credit Card,9097,USD,
+114,2023-09-24,Local Farmers Market,Food,#ed7940,Everyday Checking,ACH Transfer,8189,USD,
+145,2023-09-25,Airbnb,Travel,#6f7bd6,High-Yield Savings,Debit Card,37048,USD,
+102,2023-09-27,Shake Shack,Food,#ed7940,Everyday Checking,Debit Card,753,USD,Monthly subscription
+137,2023-09-27,Target,Shopping,#e0647f,High-Yield Savings,Cash,21393,USD,Reimbursed by work
+128,2023-09-28,AMC Theatres,Entertainment,#b07ce8,Amex Platinum,Credit Card,7408,USD,
+173,2023-10-01,Lyft,Transportation,#45b7a4,Sapphire Card,Credit Card,2036,USD,Family visit
+175,2023-10-01,Steam,Entertainment,#b07ce8,Amex Platinum,ACH Transfer,4717,USD,Renewal
+198,2023-10-01,Marriott,Travel,#6f7bd6,High-Yield Savings,Cash,9752,USD,Gift for Sam
+155,2023-10-02,Levain Bakery,Food,#ed7940,High-Yield Savings,Debit Card,14164,USD,Reimbursed by work
+165,2023-10-02,Harbor Rentals,Housing,#4f8fdf,High-Yield Savings,Debit Card,181943,USD,
+177,2023-10-02,AMC Theatres,Entertainment,#b07ce8,High-Yield Savings,ACH Transfer,10991,USD,Reimbursed by work
+170,2023-10-03,Shell,Transportation,#45b7a4,Amex Platinum,ACH Transfer,5849,USD,Split with Maya
+157,2023-10-04,Chipotle,Food,#ed7940,Amex Platinum,Credit Card,735,USD,
+160,2023-10-04,Trader Joe's,Food,#ed7940,Amex Platinum,Debit Card,1263,USD,Split payment
+171,2023-10-04,Lyft,Transportation,#45b7a4,Everyday Checking,Debit Card,481,USD,Reimbursed by work
+172,2023-10-04,Shell,Transportation,#45b7a4,Everyday Checking,Credit Card,1390,USD,Monthly subscription
+184,2023-10-04,City Water Board,Utilities,#e0b64a,Sapphire Card,Debit Card,6233,USD,
+194,2023-10-04,Dental Studio,Healthcare,#58b86a,Sapphire Card,Credit Card,25274,USD,Renewal
+196,2023-10-04,Marriott,Travel,#6f7bd6,Sapphire Card,ACH Transfer,17911,USD,Split payment
+154,2023-10-05,Levain Bakery,Food,#ed7940,Everyday Checking,ACH Transfer,7299,USD,Weekly groceries
+200,2023-10-06,Amtrak,Travel,#6f7bd6,Sapphire Card,ACH Transfer,7127,USD,Split payment
+174,2023-10-07,Shell,Transportation,#45b7a4,High-Yield Savings,Cash,4403,USD,
+158,2023-10-08,Levain Bakery,Food,#ed7940,Sapphire Card,Cash,6160,USD,Weekly groceries
+185,2023-10-09,Uniqlo,Shopping,#e0647f,Sapphire Card,Cash,23712,USD,Renewal
+179,2023-10-10,Netflix,Entertainment,#b07ce8,Amex Platinum,Cash,4053,USD,Split with Maya
+191,2023-10-10,CityMed Urgent Care,Healthcare,#58b86a,Amex Platinum,Cash,7566,USD,Home office
+153,2023-10-11,Blue Bottle Coffee,Food,#ed7940,Everyday Checking,Cash,793,USD,Monthly subscription
+190,2023-10-11,Amazon,Shopping,#e0647f,Sapphire Card,Credit Card,7231,USD,Split with Maya
+180,2023-10-12,Steam,Entertainment,#b07ce8,Amex Platinum,Cash,6720,USD,Reimbursed by work
+181,2023-10-12,City Water Board,Utilities,#e0b64a,High-Yield Savings,Cash,12752,USD,Date night
+183,2023-10-12,Comcast,Utilities,#e0b64a,Sapphire Card,Credit Card,7124,USD,
+166,2023-10-14,Meridian Property Mgmt,Housing,#4f8fdf,Everyday Checking,Cash,194798,USD,Split payment
+164,2023-10-15,Shake Shack,Food,#ed7940,Amex Platinum,Cash,909,USD,
+168,2023-10-15,Exxon,Transportation,#45b7a4,High-Yield Savings,Credit Card,551,USD,
+156,2023-10-16,Sweetgreen,Food,#ed7940,High-Yield Savings,Cash,955,USD,Gift for Sam
+163,2023-10-16,Trader Joe's,Food,#ed7940,Amex Platinum,ACH Transfer,9517,USD,
+188,2023-10-17,Sephora,Shopping,#e0647f,High-Yield Savings,Cash,26675,USD,Gift for Sam
+192,2023-10-17,CityMed Urgent Care,Healthcare,#58b86a,Amex Platinum,ACH Transfer,9161,USD,Split payment
+162,2023-10-19,Seamless,Food,#ed7940,Everyday Checking,Cash,939,USD,Gift for Sam
+182,2023-10-19,Verizon Wireless,Utilities,#e0b64a,High-Yield Savings,Cash,7559,USD,Weekly groceries
+199,2023-10-19,Marriott,Travel,#6f7bd6,Amex Platinum,Cash,11655,USD,
+176,2023-10-20,Spotify,Entertainment,#b07ce8,High-Yield Savings,Debit Card,1061,USD,Date night
+151,2023-10-21,Whole Foods Market,Food,#ed7940,Everyday Checking,Cash,5205,USD,
+186,2023-10-21,Amazon,Shopping,#e0647f,High-Yield Savings,ACH Transfer,26008,USD,Reimbursed by work
+161,2023-10-22,Levain Bakery,Food,#ed7940,Amex Platinum,Credit Card,8006,USD,Split payment
+178,2023-10-22,Netflix,Entertainment,#b07ce8,Amex Platinum,ACH Transfer,1898,USD,
+159,2023-10-24,Shake Shack,Food,#ed7940,Sapphire Card,ACH Transfer,7142,USD,
+167,2023-10-24,Zipcar,Transportation,#45b7a4,Sapphire Card,Credit Card,434,USD,Home office
+169,2023-10-24,Exxon,Transportation,#45b7a4,Sapphire Card,ACH Transfer,3021,USD,
+187,2023-10-25,IKEA,Shopping,#e0647f,Everyday Checking,Credit Card,13292,USD,Monthly subscription
+189,2023-10-25,Best Buy,Shopping,#e0647f,Amex Platinum,Debit Card,27712,USD,
+152,2023-10-26,Levain Bakery,Food,#ed7940,High-Yield Savings,Cash,503,USD,
+193,2023-10-26,Dental Studio,Healthcare,#58b86a,Amex Platinum,ACH Transfer,9686,USD,Reimbursed by work
+195,2023-10-28,Delta Air Lines,Travel,#6f7bd6,High-Yield Savings,Credit Card,2591,USD,
+197,2023-10-28,Airbnb,Travel,#6f7bd6,Amex Platinum,Credit Card,8432,USD,Date night
+210,2023-11-02,Blue Bottle Coffee,Food,#ed7940,Sapphire Card,Cash,7201,USD,Split with Maya
+217,2023-11-02,Lyft,Transportation,#45b7a4,High-Yield Savings,Credit Card,735,USD,Reimbursed by work
+224,2023-11-02,Zipcar,Transportation,#45b7a4,Sapphire Card,Debit Card,486,USD,Reimbursed by work
+226,2023-11-03,AMC Theatres,Entertainment,#b07ce8,High-Yield Savings,Debit Card,7219,USD,Gift for Sam
+239,2023-11-03,IKEA,Shopping,#e0647f,Amex Platinum,Debit Card,17884,USD,Weekly groceries
+206,2023-11-04,Whole Foods Market,Food,#ed7940,High-Yield Savings,Debit Card,675,USD,
+218,2023-11-05,Uber,Transportation,#45b7a4,High-Yield Savings,ACH Transfer,4352,USD,
+220,2023-11-05,Uber,Transportation,#45b7a4,Amex Platinum,Debit Card,875,USD,Gift for Sam
+203,2023-11-06,Shake Shack,Food,#ed7940,Everyday Checking,Debit Card,14987,USD,Date night
+237,2023-11-06,Best Buy,Shopping,#e0647f,Amex Platinum,Credit Card,12195,USD,
+211,2023-11-07,Seamless,Food,#ed7940,Everyday Checking,ACH Transfer,6057,USD,Reimbursed by work
+215,2023-11-07,Harbor Rentals,Housing,#4f8fdf,Sapphire Card,Cash,11865,USD,Split payment
+234,2023-11-07,Verizon Wireless,Utilities,#e0b64a,Everyday Checking,ACH Transfer,6340,USD,
+236,2023-11-08,Target,Shopping,#e0647f,Everyday Checking,ACH Transfer,28180,USD,Date night
+242,2023-11-08,Dental Studio,Healthcare,#58b86a,High-Yield Savings,ACH Transfer,19915,USD,
+209,2023-11-09,Trader Joe's,Food,#ed7940,Sapphire Card,Cash,4697,USD,Monthly subscription
+249,2023-11-09,Airport Parking,Travel,#6f7bd6,Sapphire Card,ACH Transfer,3638,USD,Split with Maya
+240,2023-11-10,Sephora,Shopping,#e0647f,Everyday Checking,Cash,10024,USD,Split payment
+205,2023-11-11,Local Farmers Market,Food,#ed7940,Amex Platinum,ACH Transfer,5106,USD,Renewal
+222,2023-11-11,Shell,Transportation,#45b7a4,High-Yield Savings,Cash,2890,USD,Split payment
+219,2023-11-12,Zipcar,Transportation,#45b7a4,High-Yield Savings,Debit Card,481,USD,Split with Maya
+204,2023-11-13,Local Farmers Market,Food,#ed7940,High-Yield Savings,Credit Card,1052,USD,
+233,2023-11-13,Verizon Wireless,Utilities,#e0b64a,Everyday Checking,Cash,15041,USD,
+225,2023-11-14,Netflix,Entertainment,#b07ce8,Amex Platinum,Credit Card,6656,USD,Split payment
+201,2023-11-15,Shake Shack,Food,#ed7940,High-Yield Savings,Credit Card,581,USD,Split payment
+229,2023-11-15,AMC Theatres,Entertainment,#b07ce8,Sapphire Card,Debit Card,1046,USD,
+213,2023-11-16,Trader Joe's,Food,#ed7940,Sapphire Card,ACH Transfer,1388,USD,Weekly groceries
+248,2023-11-17,Amtrak,Travel,#6f7bd6,Sapphire Card,ACH Transfer,7272,USD,Split payment
+243,2023-11-18,CVS Pharmacy,Healthcare,#58b86a,High-Yield Savings,ACH Transfer,6199,USD,Date night
+244,2023-11-18,CVS Pharmacy,Healthcare,#58b86a,High-Yield Savings,Credit Card,8643,USD,Renewal
+208,2023-11-19,Sweetgreen,Food,#ed7940,High-Yield Savings,Cash,4156,USD,Family visit
+247,2023-11-19,Hertz,Travel,#6f7bd6,Amex Platinum,ACH Transfer,12901,USD,Split payment
+250,2023-11-19,Amtrak,Travel,#6f7bd6,High-Yield Savings,Cash,39067,USD,Home office
+246,2023-11-20,Airport Parking,Travel,#6f7bd6,Sapphire Card,Debit Card,48039,USD,Renewal
+245,2023-11-21,Airport Parking,Travel,#6f7bd6,Sapphire Card,Credit Card,1292,USD,
+232,2023-11-22,Verizon Wireless,Utilities,#e0b64a,Everyday Checking,ACH Transfer,13251,USD,Family visit
+235,2023-11-22,IKEA,Shopping,#e0647f,High-Yield Savings,Cash,7776,USD,Weekly groceries
+238,2023-11-22,Uniqlo,Shopping,#e0647f,Sapphire Card,Credit Card,22796,USD,
+241,2023-11-22,Dental Studio,Healthcare,#58b86a,Amex Platinum,Debit Card,30373,USD,Home office
+227,2023-11-23,Powell's Books,Entertainment,#b07ce8,High-Yield Savings,ACH Transfer,5726,USD,Family visit
+202,2023-11-24,Levain Bakery,Food,#ed7940,High-Yield Savings,Cash,622,USD,Gift for Sam
+221,2023-11-24,Uber,Transportation,#45b7a4,High-Yield Savings,Credit Card,4495,USD,Reimbursed by work
+230,2023-11-24,Powell's Books,Entertainment,#b07ce8,Sapphire Card,Cash,4433,USD,Monthly subscription
+231,2023-11-24,Verizon Wireless,Utilities,#e0b64a,Sapphire Card,Cash,6455,USD,
+228,2023-11-25,Netflix,Entertainment,#b07ce8,Sapphire Card,Cash,1262,USD,Gift for Sam
+207,2023-11-26,Levain Bakery,Food,#ed7940,Everyday Checking,ACH Transfer,3270,USD,Split payment
+212,2023-11-26,Seamless,Food,#ed7940,Sapphire Card,Cash,1306,USD,Home office
+216,2023-11-26,Homeshield Insurance,Housing,#4f8fdf,Sapphire Card,Credit Card,181911,USD,Renewal
+214,2023-11-28,Seamless,Food,#ed7940,Sapphire Card,Cash,7174,USD,Family visit
+223,2023-11-28,Lyft,Transportation,#45b7a4,Everyday Checking,Debit Card,3003,USD,
+261,2023-12-02,Local Farmers Market,Food,#ed7940,Sapphire Card,Credit Card,1089,USD,Split payment
+264,2023-12-02,Local Farmers Market,Food,#ed7940,Amex Platinum,Credit Card,4238,USD,Date night
+269,2023-12-02,Shell,Transportation,#45b7a4,High-Yield Savings,Credit Card,1835,USD,Weekly groceries
+252,2023-12-03,Trader Joe's,Food,#ed7940,Everyday Checking,Cash,5833,USD,Date night
+253,2023-12-03,Seamless,Food,#ed7940,Sapphire Card,Credit Card,5783,USD,Split payment
+258,2023-12-03,Chipotle,Food,#ed7940,Amex Platinum,Cash,13507,USD,
+279,2023-12-03,Live Nation,Entertainment,#b07ce8,Everyday Checking,Cash,3518,USD,Split payment
+254,2023-12-04,Shake Shack,Food,#ed7940,Everyday Checking,Debit Card,9787,USD,Family visit
+293,2023-12-04,Dental Studio,Healthcare,#58b86a,High-Yield Savings,Debit Card,4079,USD,Family visit
+257,2023-12-05,Shake Shack,Food,#ed7940,Sapphire Card,Debit Card,9162,USD,Renewal
+274,2023-12-06,Shell,Transportation,#45b7a4,High-Yield Savings,Credit Card,1881,USD,Gift for Sam
+283,2023-12-06,Green Mountain Energy,Utilities,#e0b64a,Everyday Checking,Credit Card,14515,USD,
+287,2023-12-06,Uniqlo,Shopping,#e0647f,Amex Platinum,Debit Card,31463,USD,Reimbursed by work
+262,2023-12-07,Seamless,Food,#ed7940,Amex Platinum,Cash,6783,USD,Renewal
+280,2023-12-07,Steam,Entertainment,#b07ce8,Sapphire Card,ACH Transfer,1417,USD,Weekly groceries
+288,2023-12-07,Uniqlo,Shopping,#e0647f,Sapphire Card,Cash,25553,USD,Home office
+278,2023-12-08,Steam,Entertainment,#b07ce8,Everyday Checking,ACH Transfer,7282,USD,
+292,2023-12-08,Wellness Pharmacy,Healthcare,#58b86a,High-Yield Savings,Debit Card,7772,USD,Renewal
+266,2023-12-09,Harbor Rentals,Housing,#4f8fdf,Amex Platinum,ACH Transfer,7833,USD,Monthly subscription
+273,2023-12-09,Zipcar,Transportation,#45b7a4,Amex Platinum,ACH Transfer,2312,USD,Monthly subscription
+291,2023-12-09,Optical Center,Healthcare,#58b86a,Sapphire Card,Credit Card,18804,USD,Weekly groceries
+265,2023-12-10,Harbor Rentals,Housing,#4f8fdf,Sapphire Card,Debit Card,10551,USD,Weekly groceries
+259,2023-12-11,Local Farmers Market,Food,#ed7940,Sapphire Card,Cash,5495,USD,Monthly subscription
+260,2023-12-11,Seamless,Food,#ed7940,Everyday Checking,ACH Transfer,1035,USD,Split payment
+298,2023-12-11,Delta Air Lines,Travel,#6f7bd6,High-Yield Savings,Credit Card,54484,USD,Gift for Sam
+251,2023-12-12,Chipotle,Food,#ed7940,Amex Platinum,Credit Card,6326,USD,
+268,2023-12-12,Lyft,Transportation,#45b7a4,Amex Platinum,Cash,3078,USD,
+255,2023-12-13,Levain Bakery,Food,#ed7940,High-Yield Savings,Debit Card,3404,USD,Gift for Sam
+271,2023-12-13,Lyft,Transportation,#45b7a4,High-Yield Savings,Credit Card,2755,USD,Split with Maya
+270,2023-12-14,ParkMobile,Transportation,#45b7a4,High-Yield Savings,ACH Transfer,4390,USD,Home office
+272,2023-12-14,Zipcar,Transportation,#45b7a4,Everyday Checking,Credit Card,2998,USD,
+294,2023-12-14,Wellness Pharmacy,Healthcare,#58b86a,High-Yield Savings,Cash,6963,USD,Weekly groceries
+296,2023-12-14,Airbnb,Travel,#6f7bd6,Everyday Checking,ACH Transfer,23120,USD,
+276,2023-12-16,Spotify,Entertainment,#b07ce8,Sapphire Card,Credit Card,10326,USD,
+277,2023-12-16,Spotify,Entertainment,#b07ce8,High-Yield Savings,Cash,2520,USD,
+299,2023-12-16,Airbnb,Travel,#6f7bd6,Amex Platinum,Credit Card,47946,USD,Renewal
+281,2023-12-17,Comcast,Utilities,#e0b64a,Everyday Checking,Credit Card,6670,USD,Gift for Sam
+289,2023-12-17,Uniqlo,Shopping,#e0647f,High-Yield Savings,Cash,22960,USD,
+263,2023-12-20,Sweetgreen,Food,#ed7940,High-Yield Savings,ACH Transfer,926,USD,Split with Maya
+282,2023-12-20,Comcast,Utilities,#e0b64a,High-Yield Savings,Cash,6710,USD,
+286,2023-12-20,Best Buy,Shopping,#e0647f,Amex Platinum,Credit Card,21314,USD,Monthly subscription
+290,2023-12-21,Sephora,Shopping,#e0647f,Everyday Checking,Credit Card,15766,USD,Renewal
+285,2023-12-22,Amazon,Shopping,#e0647f,High-Yield Savings,ACH Transfer,22435,USD,Renewal
+284,2023-12-23,ConEdison,Utilities,#e0b64a,Amex Platinum,Debit Card,6040,USD,Date night
+295,2023-12-24,Marriott,Travel,#6f7bd6,Sapphire Card,Cash,44124,USD,Gift for Sam
+256,2023-12-26,Trader Joe's,Food,#ed7940,Sapphire Card,Cash,491,USD,Split payment
+300,2023-12-26,Marriott,Travel,#6f7bd6,Everyday Checking,ACH Transfer,66601,USD,Renewal
+267,2023-12-27,Metro Transit,Transportation,#45b7a4,Everyday Checking,ACH Transfer,1173,USD,Split with Maya
+275,2023-12-28,Powell's Books,Entertainment,#b07ce8,Sapphire Card,ACH Transfer,909,USD,Split payment
+297,2023-12-28,Hertz,Travel,#6f7bd6,High-Yield Savings,Credit Card,51480,USD,Split with Maya
+335,2024-01-01,Uniqlo,Shopping,#e0647f,High-Yield Savings,Cash,23557,USD,Renewal
+347,2024-01-01,Hertz,Travel,#6f7bd6,High-Yield Savings,Debit Card,27965,USD,Monthly subscription
+308,2024-01-02,Corner Deli,Food,#ed7940,High-Yield Savings,Debit Card,12189,USD,Renewal
+333,2024-01-02,City Water Board,Utilities,#e0b64a,High-Yield Savings,Credit Card,9015,USD,Date night
+310,2024-01-03,Local Farmers Market,Food,#ed7940,Amex Platinum,Debit Card,7445,USD,Split payment
+313,2024-01-03,Blue Bottle Coffee,Food,#ed7940,Sapphire Card,Cash,10136,USD,
+328,2024-01-03,Live Nation,Entertainment,#b07ce8,Sapphire Card,Debit Card,3300,USD,Split with Maya
+334,2024-01-03,City Water Board,Utilities,#e0b64a,Everyday Checking,ACH Transfer,6975,USD,Reimbursed by work
+312,2024-01-04,Levain Bakery,Food,#ed7940,Everyday Checking,Debit Card,5328,USD,
+320,2024-01-04,Lyft,Transportation,#45b7a4,Sapphire Card,Cash,554,USD,Renewal
+337,2024-01-04,REI,Shopping,#e0647f,High-Yield Savings,ACH Transfer,14624,USD,
+342,2024-01-04,Dental Studio,Healthcare,#58b86a,Sapphire Card,Credit Card,17113,USD,
+317,2024-01-05,Exxon,Transportation,#45b7a4,Sapphire Card,Credit Card,1684,USD,Renewal
+336,2024-01-05,Sephora,Shopping,#e0647f,Sapphire Card,Cash,3548,USD,Date night
+303,2024-01-06,Levain Bakery,Food,#ed7940,Everyday Checking,Credit Card,6603,USD,Gift for Sam
+304,2024-01-07,Trader Joe's,Food,#ed7940,Everyday Checking,Debit Card,5830,USD,Reimbursed by work
+325,2024-01-07,AMC Theatres,Entertainment,#b07ce8,High-Yield Savings,Debit Card,4927,USD,
+327,2024-01-07,Live Nation,Entertainment,#b07ce8,Sapphire Card,Cash,10204,USD,Reimbursed by work
+338,2024-01-08,REI,Shopping,#e0647f,Sapphire Card,Credit Card,19885,USD,Split payment
+349,2024-01-08,Amtrak,Travel,#6f7bd6,Amex Platinum,Cash,22797,USD,Date night
+307,2024-01-09,Local Farmers Market,Food,#ed7940,Everyday Checking,Cash,14566,USD,Home office
+344,2024-01-09,CityMed Urgent Care,Healthcare,#58b86a,High-Yield Savings,ACH Transfer,21250,USD,
+314,2024-01-10,Levain Bakery,Food,#ed7940,Sapphire Card,Cash,5428,USD,
+302,2024-01-11,Shake Shack,Food,#ed7940,Amex Platinum,Cash,14768,USD,Weekly groceries
+319,2024-01-11,Exxon,Transportation,#45b7a4,Everyday Checking,Cash,2918,USD,Split payment
+345,2024-01-13,Airport Parking,Travel,#6f7bd6,High-Yield Savings,Credit Card,21556,USD,
+306,2024-01-14,Blue Bottle Coffee,Food,#ed7940,Everyday Checking,Cash,12475,USD,Family visit
+329,2024-01-15,AMC Theatres,Entertainment,#b07ce8,Amex Platinum,Cash,1739,USD,Date night
+340,2024-01-15,Best Buy,Shopping,#e0647f,High-Yield Savings,ACH Transfer,5166,USD,Split payment
+316,2024-01-16,Harbor Rentals,Housing,#4f8fdf,Amex Platinum,Cash,166307,USD,Family visit
+301,2024-01-17,Chipotle,Food,#ed7940,Sapphire Card,Credit Card,14905,USD,Reimbursed by work
+321,2024-01-17,ParkMobile,Transportation,#45b7a4,Everyday Checking,ACH Transfer,1954,USD,Home office
+326,2024-01-18,Live Nation,Entertainment,#b07ce8,Everyday Checking,Debit Card,6041,USD,Split with Maya
+330,2024-01-18,AMC Theatres,Entertainment,#b07ce8,Everyday Checking,Debit Card,1147,USD,Renewal
+305,2024-01-20,Levain Bakery,Food,#ed7940,Sapphire Card,ACH Transfer,6206,USD,Split payment
+309,2024-01-20,Corner Deli,Food,#ed7940,High-Yield Savings,Credit Card,14903,USD,Renewal
+331,2024-01-21,Green Mountain Energy,Utilities,#e0b64a,Everyday Checking,Debit Card,6532,USD,Split payment
+323,2024-01-22,Metro Transit,Transportation,#45b7a4,Sapphire Card,ACH Transfer,6406,USD,Home office
+346,2024-01-22,Airbnb,Travel,#6f7bd6,Everyday Checking,Debit Card,4930,USD,
+322,2024-01-25,Uber,Transportation,#45b7a4,High-Yield Savings,ACH Transfer,3038,USD,Date night
+332,2024-01-25,ConEdison,Utilities,#e0b64a,Sapphire Card,ACH Transfer,7148,USD,Renewal
+341,2024-01-25,Dental Studio,Healthcare,#58b86a,Amex Platinum,Debit Card,16600,USD,Monthly subscription
+350,2024-01-25,Marriott,Travel,#6f7bd6,Everyday Checking,Credit Card,28719,USD,Reimbursed by work
+315,2024-01-26,Homeshield Insurance,Housing,#4f8fdf,Everyday Checking,Credit Card,173518,USD,
+324,2024-01-26,Zipcar,Transportation,#45b7a4,Sapphire Card,Debit Card,4886,USD,Gift for Sam
+339,2024-01-26,Sephora,Shopping,#e0647f,Amex Platinum,ACH Transfer,25226,USD,
+348,2024-01-26,Delta Air Lines,Travel,#6f7bd6,High-Yield Savings,ACH Transfer,8265,USD,
+318,2024-01-27,Uber,Transportation,#45b7a4,Everyday Checking,Credit Card,2100,USD,
+343,2024-01-27,CVS Pharmacy,Healthcare,#58b86a,High-Yield Savings,Credit Card,3744,USD,Weekly groceries
+311,2024-01-28,Blue Bottle Coffee,Food,#ed7940,Everyday Checking,Cash,632,USD,Family visit
+360,2024-02-01,Sweetgreen,Food,#ed7940,Sapphire Card,Credit Card,751,USD,Gift for Sam
+368,2024-02-01,Zipcar,Transportation,#45b7a4,High-Yield Savings,Cash,3041,USD,Split payment
+388,2024-02-01,Amazon,Shopping,#e0647f,Everyday Checking,Debit Card,10227,USD,Weekly groceries
+358,2024-02-02,Blue Bottle Coffee,Food,#ed7940,Amex Platinum,Cash,11162,USD,Reimbursed by work
+375,2024-02-03,Netflix,Entertainment,#b07ce8,Everyday Checking,Cash,4395,USD,Gift for Sam
+398,2024-02-03,Hertz,Travel,#6f7bd6,Sapphire Card,Debit Card,8870,USD,Family visit
+400,2024-02-04,Hertz,Travel,#6f7bd6,High-Yield Savings,Cash,1437,USD,
+374,2024-02-05,Metro Transit,Transportation,#45b7a4,Everyday Checking,Cash,602,USD,Home office
+356,2024-02-06,Levain Bakery,Food,#ed7940,Sapphire Card,Debit Card,955,USD,
+384,2024-02-06,City Water Board,Utilities,#e0b64a,Amex Platinum,Debit Card,5636,USD,
+386,2024-02-06,Uniqlo,Shopping,#e0647f,Everyday Checking,Debit Card,5969,USD,Split payment
+394,2024-02-06,CVS Pharmacy,Healthcare,#58b86a,Amex Platinum,Debit Card,19244,USD,
+371,2024-02-07,Metro Transit,Transportation,#45b7a4,Sapphire Card,ACH Transfer,404,USD,Split payment
+393,2024-02-08,Optical Center,Healthcare,#58b86a,Everyday Checking,Credit Card,11984,USD,
+372,2024-02-09,ParkMobile,Transportation,#45b7a4,High-Yield Savings,Cash,1824,USD,
+385,2024-02-09,Uniqlo,Shopping,#e0647f,Amex Platinum,ACH Transfer,27910,USD,Monthly subscription
+355,2024-02-11,Chipotle,Food,#ed7940,Amex Platinum,ACH Transfer,13179,USD,
+370,2024-02-11,Zipcar,Transportation,#45b7a4,Amex Platinum,ACH Transfer,259,USD,Weekly groceries
+373,2024-02-11,ParkMobile,Transportation,#45b7a4,High-Yield Savings,Credit Card,294,USD,Weekly groceries
+354,2024-02-12,Seamless,Food,#ed7940,Everyday Checking,ACH Transfer,8834,USD,Renewal
+357,2024-02-12,Blue Bottle Coffee,Food,#ed7940,Amex Platinum,Debit Card,5299,USD,
+378,2024-02-12,Spotify,Entertainment,#b07ce8,High-Yield Savings,ACH Transfer,5808,USD,Reimbursed by work
+391,2024-02-13,CityMed Urgent Care,Healthcare,#58b86a,Everyday Checking,ACH Transfer,6322,USD,
+383,2024-02-14,Green Mountain Energy,Utilities,#e0b64a,High-Yield Savings,Credit Card,6571,USD,Weekly groceries
+387,2024-02-14,Uniqlo,Shopping,#e0647f,Sapphire Card,Cash,20662,USD,
+361,2024-02-15,Chipotle,Food,#ed7940,Amex Platinum,Credit Card,7170,USD,
+362,2024-02-15,Trader Joe's,Food,#ed7940,Amex Platinum,Cash,3835,USD,Home office
+366,2024-02-15,Harbor Rentals,Housing,#4f8fdf,High-Yield Savings,Debit Card,179159,USD,Split payment
+380,2024-02-17,Live Nation,Entertainment,#b07ce8,Amex Platinum,Credit Card,1326,USD,
+397,2024-02-17,Airbnb,Travel,#6f7bd6,High-Yield Savings,Cash,29756,USD,Monthly subscription
+365,2024-02-18,Meridian Property Mgmt,Housing,#4f8fdf,Sapphire Card,Credit Card,8960,USD,
+376,2024-02-18,Steam,Entertainment,#b07ce8,High-Yield Savings,Cash,10793,USD,Split payment
+379,2024-02-18,Powell's Books,Entertainment,#b07ce8,Everyday Checking,Cash,9553,USD,
+381,2024-02-18,City Water Board,Utilities,#e0b64a,Everyday Checking,Debit Card,6906,USD,Reimbursed by work
+382,2024-02-19,Verizon Wireless,Utilities,#e0b64a,Sapphire Card,ACH Transfer,7634,USD,
+396,2024-02-19,Amtrak,Travel,#6f7bd6,Sapphire Card,Cash,39680,USD,
+351,2024-02-20,Local Farmers Market,Food,#ed7940,Everyday Checking,ACH Transfer,11841,USD,Date night
+352,2024-02-20,Levain Bakery,Food,#ed7940,High-Yield Savings,ACH Transfer,14508,USD,Family visit
+390,2024-02-20,Target,Shopping,#e0647f,Everyday Checking,Credit Card,25477,USD,
+392,2024-02-20,CVS Pharmacy,Healthcare,#58b86a,Amex Platinum,Debit Card,18033,USD,Family visit
+389,2024-02-21,Target,Shopping,#e0647f,High-Yield Savings,Credit Card,22010,USD,
+395,2024-02-21,Hertz,Travel,#6f7bd6,Amex Platinum,ACH Transfer,2846,USD,Gift for Sam
+364,2024-02-22,Shake Shack,Food,#ed7940,Sapphire Card,Credit Card,1065,USD,Date night
+359,2024-02-23,Sweetgreen,Food,#ed7940,High-Yield Savings,Debit Card,8730,USD,Reimbursed by work
+369,2024-02-23,Exxon,Transportation,#45b7a4,Everyday Checking,Credit Card,1430,USD,Home office
+377,2024-02-23,Powell's Books,Entertainment,#b07ce8,Everyday Checking,ACH Transfer,5075,USD,Family visit
+353,2024-02-24,Trader Joe's,Food,#ed7940,High-Yield Savings,ACH Transfer,1393,USD,
+367,2024-02-25,Shell,Transportation,#45b7a4,Amex Platinum,ACH Transfer,262,USD,Split payment
+399,2024-02-27,Amtrak,Travel,#6f7bd6,Amex Platinum,ACH Transfer,2663,USD,Monthly subscription
+363,2024-02-28,Local Farmers Market,Food,#ed7940,Amex Platinum,Cash,6471,USD,Family visit
+432,2024-03-01,ConEdison,Utilities,#e0b64a,Sapphire Card,ACH Transfer,7150,USD,Monthly subscription
+442,2024-03-01,Wellness Pharmacy,Healthcare,#58b86a,High-Yield Savings,ACH Transfer,21578,USD,
+425,2024-03-02,Powell's Books,Entertainment,#b07ce8,Amex Platinum,Cash,11010,USD,Split payment
+445,2024-03-02,Hertz,Travel,#6f7bd6,Amex Platinum,Debit Card,37592,USD,Weekly groceries
+447,2024-03-02,Delta Air Lines,Travel,#6f7bd6,Everyday Checking,Credit Card,11388,USD,
+405,2024-03-03,Blue Bottle Coffee,Food,#ed7940,Amex Platinum,Credit Card,4197,USD,
+403,2024-03-04,Whole Foods Market,Food,#ed7940,Sapphire Card,Cash,12567,USD,
+421,2024-03-04,ParkMobile,Transportation,#45b7a4,High-Yield Savings,Credit Card,3726,USD,Home office
+420,2024-03-05,Zipcar,Transportation,#45b7a4,Amex Platinum,Cash,4373,USD,Split payment
+444,2024-03-05,Wellness Pharmacy,Healthcare,#58b86a,Everyday Checking,ACH Transfer,2507,USD,Family visit
+410,2024-03-06,Levain Bakery,Food,#ed7940,Sapphire Card,ACH Transfer,7972,USD,Date night
+431,2024-03-06,Verizon Wireless,Utilities,#e0b64a,Sapphire Card,Debit Card,7231,USD,Family visit
+436,2024-03-06,Uniqlo,Shopping,#e0647f,Sapphire Card,Cash,26840,USD,Monthly subscription
+411,2024-03-08,Whole Foods Market,Food,#ed7940,Amex Platinum,ACH Transfer,4737,USD,
+437,2024-03-08,Sephora,Shopping,#e0647f,Everyday Checking,Debit Card,7485,USD,
+415,2024-03-09,Homeshield Insurance,Housing,#4f8fdf,Sapphire Card,Credit Card,7431,USD,Home office
+427,2024-03-09,Spotify,Entertainment,#b07ce8,Sapphire Card,Cash,1801,USD,Monthly subscription
+418,2024-03-12,ParkMobile,Transportation,#45b7a4,Everyday Checking,Credit Card,6160,USD,Gift for Sam
+401,2024-03-14,Corner Deli,Food,#ed7940,High-Yield Savings,Debit Card,688,USD,Home office
+413,2024-03-16,Corner Deli,Food,#ed7940,Amex Platinum,Cash,575,USD,Family visit
+424,2024-03-17,Lyft,Transportation,#45b7a4,High-Yield Savings,Cash,4007,USD,Renewal
+426,2024-03-17,Spotify,Entertainment,#b07ce8,Everyday Checking,Cash,1238,USD,Split payment
+408,2024-03-19,Shake Shack,Food,#ed7940,Everyday Checking,Credit Card,10983,USD,Renewal
+422,2024-03-19,Exxon,Transportation,#45b7a4,High-Yield Savings,Cash,1912,USD,Family visit
+430,2024-03-19,Powell's Books,Entertainment,#b07ce8,High-Yield Savings,ACH Transfer,10530,USD,Split payment
+450,2024-03-20,Amtrak,Travel,#6f7bd6,Sapphire Card,Debit Card,7438,USD,
+416,2024-03-21,Meridian Property Mgmt,Housing,#4f8fdf,Sapphire Card,ACH Transfer,178192,USD,
+419,2024-03-21,Metro Transit,Transportation,#45b7a4,Amex Platinum,Cash,3503,USD,Weekly groceries
+429,2024-03-21,Netflix,Entertainment,#b07ce8,High-Yield Savings,Credit Card,986,USD,Family visit
+402,2024-03-22,Chipotle,Food,#ed7940,High-Yield Savings,Cash,7963,USD,Gift for Sam
+404,2024-03-22,Whole Foods Market,Food,#ed7940,Amex Platinum,ACH Transfer,10555,USD,
+423,2024-03-22,ParkMobile,Transportation,#45b7a4,Sapphire Card,Debit Card,2407,USD,
+438,2024-03-22,Sephora,Shopping,#e0647f,High-Yield Savings,Debit Card,27590,USD,
+443,2024-03-22,Wellness Pharmacy,Healthcare,#58b86a,Everyday Checking,Credit Card,16874,USD,Split payment
+446,2024-03-22,Hertz,Travel,#6f7bd6,Everyday Checking,Cash,24536,USD,Reimbursed by work
+448,2024-03-22,Delta Air Lines,Travel,#6f7bd6,Sapphire Card,Debit Card,22964,USD,Reimbursed by work
+439,2024-03-23,Sephora,Shopping,#e0647f,Sapphire Card,Credit Card,29657,USD,Home office
+449,2024-03-23,Airbnb,Travel,#6f7bd6,Everyday Checking,Debit Card,2321,USD,Split payment
+409,2024-03-24,Levain Bakery,Food,#ed7940,Sapphire Card,ACH Transfer,8636,USD,Family visit
+412,2024-03-24,Sweetgreen,Food,#ed7940,Sapphire Card,Cash,1061,USD,
+414,2024-03-24,Sweetgreen,Food,#ed7940,Amex Platinum,Cash,2991,USD,Gift for Sam
+428,2024-03-24,Powell's Books,Entertainment,#b07ce8,Everyday Checking,Cash,5962,USD,Renewal
+434,2024-03-24,Comcast,Utilities,#e0b64a,High-Yield Savings,Credit Card,8720,USD,
+406,2024-03-26,Sweetgreen,Food,#ed7940,High-Yield Savings,ACH Transfer,651,USD,Family visit
+407,2024-03-26,Whole Foods Market,Food,#ed7940,Sapphire Card,Debit Card,8180,USD,Home office
+417,2024-03-26,Metro Transit,Transportation,#45b7a4,High-Yield Savings,ACH Transfer,1304,USD,Date night
+435,2024-03-26,Uniqlo,Shopping,#e0647f,Sapphire Card,ACH Transfer,25219,USD,Split payment
+440,2024-03-26,Sephora,Shopping,#e0647f,Amex Platinum,Debit Card,4145,USD,Gift for Sam
+441,2024-03-26,CityMed Urgent Care,Healthcare,#58b86a,High-Yield Savings,ACH Transfer,10325,USD,
+433,2024-03-28,City Water Board,Utilities,#e0b64a,Sapphire Card,ACH Transfer,8971,USD,Split with Maya
+454,2024-04-01,Trader Joe's,Food,#ed7940,Sapphire Card,Cash,14470,USD,
+471,2024-04-01,Lyft,Transportation,#45b7a4,Everyday Checking,Credit Card,1978,USD,
+476,2024-04-01,Spotify,Entertainment,#b07ce8,Sapphire Card,Credit Card,3510,USD,Split with Maya
+487,2024-04-01,Best Buy,Shopping,#e0647f,Everyday Checking,ACH Transfer,6377,USD,
+461,2024-04-03,Local Farmers Market,Food,#ed7940,Everyday Checking,Debit Card,666,USD,
+490,2024-04-03,REI,Shopping,#e0647f,High-Yield Savings,Debit Card,8742,USD,
+498,2024-04-03,Amtrak,Travel,#6f7bd6,High-Yield Savings,Debit Card,27531,USD,Monthly subscription
+473,2024-04-04,Lyft,Transportation,#45b7a4,High-Yield Savings,ACH Transfer,278,USD,Home office
+485,2024-04-05,Uniqlo,Shopping,#e0647f,High-Yield Savings,Cash,23995,USD,Reimbursed by work
+458,2024-04-06,Local Farmers Market,Food,#ed7940,Amex Platinum,Credit Card,5654,USD,Weekly groceries
+467,2024-04-06,Shell,Transportation,#45b7a4,Everyday Checking,Credit Card,410,USD,Reimbursed by work
+497,2024-04-06,Amtrak,Travel,#6f7bd6,High-Yield Savings,ACH Transfer,42441,USD,Weekly groceries
+494,2024-04-07,Optical Center,Healthcare,#58b86a,Amex Platinum,Credit Card,21016,USD,
+464,2024-04-09,Shake Shack,Food,#ed7940,Everyday Checking,Cash,10939,USD,Home office
+470,2024-04-09,Exxon,Transportation,#45b7a4,Sapphire Card,Credit Card,5156,USD,Family visit
+472,2024-04-09,Uber,Transportation,#45b7a4,Amex Platinum,ACH Transfer,3408,USD,Split with Maya
+489,2024-04-09,Amazon,Shopping,#e0647f,High-Yield Savings,ACH Transfer,23839,USD,Gift for Sam
+455,2024-04-10,Whole Foods Market,Food,#ed7940,High-Yield Savings,ACH Transfer,507,USD,Family visit
+499,2024-04-10,Delta Air Lines,Travel,#6f7bd6,Everyday Checking,Credit Card,75817,USD,Family visit
+452,2024-04-11,Seamless,Food,#ed7940,Amex Platinum,Debit Card,1180,USD,Split payment
+492,2024-04-11,CityMed Urgent Care,Healthcare,#58b86a,Sapphire Card,Debit Card,20101,USD,Gift for Sam
+460,2024-04-12,Sweetgreen,Food,#ed7940,Amex Platinum,Cash,5644,USD,Family visit
+478,2024-04-12,Netflix,Entertainment,#b07ce8,High-Yield Savings,Cash,9629,USD,Split payment
+493,2024-04-12,Wellness Pharmacy,Healthcare,#58b86a,Sapphire Card,Cash,17113,USD,Home office
+484,2024-04-13,Verizon Wireless,Utilities,#e0b64a,Amex Platinum,ACH Transfer,6302,USD,Weekly groceries
+486,2024-04-13,Best Buy,Shopping,#e0647f,Everyday Checking,Cash,34642,USD,Split with Maya
+496,2024-04-14,Airport Parking,Travel,#6f7bd6,High-Yield Savings,ACH Transfer,2216,USD,Home office
+453,2024-04-15,Whole Foods Market,Food,#ed7940,Everyday Checking,Credit Card,6499,USD,Monthly subscription
+466,2024-04-15,Eastside Apartments,Housing,#4f8fdf,High-Yield Savings,ACH Transfer,11549,USD,
+468,2024-04-16,Uber,Transportation,#45b7a4,Amex Platinum,ACH Transfer,506,USD,
+477,2024-04-16,Powell's Books,Entertainment,#b07ce8,Everyday Checking,Cash,1541,USD,Split payment
+500,2024-04-16,Hertz,Travel,#6f7bd6,Sapphire Card,ACH Transfer,8766,USD,Home office
+459,2024-04-17,Whole Foods Market,Food,#ed7940,High-Yield Savings,Debit Card,4751,USD,Gift for Sam
+462,2024-04-17,Local Farmers Market,Food,#ed7940,Everyday Checking,ACH Transfer,4488,USD,Split payment
+483,2024-04-18,Green Mountain Energy,Utilities,#e0b64a,Sapphire Card,ACH Transfer,12515,USD,Home office
+451,2024-04-19,Levain Bakery,Food,#ed7940,Sapphire Card,ACH Transfer,3946,USD,Weekly groceries
+457,2024-04-19,Sweetgreen,Food,#ed7940,High-Yield Savings,ACH Transfer,1333,USD,Monthly subscription
+463,2024-04-19,Levain Bakery,Food,#ed7940,Sapphire Card,ACH Transfer,5813,USD,Weekly groceries
+482,2024-04-19,Green Mountain Energy,Utilities,#e0b64a,Everyday Checking,ACH Transfer,6661,USD,
+491,2024-04-19,Dental Studio,Healthcare,#58b86a,Amex Platinum,Cash,5866,USD,
+479,2024-04-22,AMC Theatres,Entertainment,#b07ce8,High-Yield Savings,ACH Transfer,11395,USD,
+488,2024-04-22,Target,Shopping,#e0647f,Sapphire Card,Credit Card,4072,USD,Split payment
+495,2024-04-22,Airbnb,Travel,#6f7bd6,Sapphire Card,Credit Card,28789,USD,
+465,2024-04-25,Harbor Rentals,Housing,#4f8fdf,High-Yield Savings,Debit Card,9631,USD,Split payment
+481,2024-04-25,ConEdison,Utilities,#e0b64a,High-Yield Savings,ACH Transfer,6030,USD,Split payment
+469,2024-04-26,ParkMobile,Transportation,#45b7a4,Amex Platinum,Debit Card,1449,USD,Reimbursed by work
+474,2024-04-27,Uber,Transportation,#45b7a4,High-Yield Savings,Credit Card,468,USD,Split with Maya
+475,2024-04-27,Netflix,Entertainment,#b07ce8,Sapphire Card,Debit Card,7555,USD,Split payment
+456,2024-04-28,Seamless,Food,#ed7940,High-Yield Savings,ACH Transfer,6538,USD,Split with Maya
+480,2024-04-28,Powell's Books,Entertainment,#b07ce8,Amex Platinum,Credit Card,1264,USD,Home office
+510,2024-05-01,Shake Shack,Food,#ed7940,Amex Platinum,Cash,1220,USD,Date night
+501,2024-05-02,Seamless,Food,#ed7940,Amex Platinum,Credit Card,648,USD,Date night
+532,2024-05-02,ConEdison,Utilities,#e0b64a,High-Yield Savings,ACH Transfer,6315,USD,Home office
+549,2024-05-04,Marriott,Travel,#6f7bd6,Amex Platinum,Debit Card,23077,USD,Split payment
+517,2024-05-08,ParkMobile,Transportation,#45b7a4,Everyday Checking,Debit Card,454,USD,
+526,2024-05-09,Spotify,Entertainment,#b07ce8,High-Yield Savings,Debit Card,10748,USD,Date night
+529,2024-05-09,Powell's Books,Entertainment,#b07ce8,Sapphire Card,Cash,5663,USD,Home office
+507,2024-05-10,Chipotle,Food,#ed7940,High-Yield Savings,Debit Card,2520,USD,Split with Maya
+520,2024-05-11,Shell,Transportation,#45b7a4,Everyday Checking,Debit Card,762,USD,Split payment
+545,2024-05-11,Amtrak,Travel,#6f7bd6,Amex Platinum,Debit Card,22845,USD,Monthly subscription
+550,2024-05-11,Amtrak,Travel,#6f7bd6,Everyday Checking,ACH Transfer,20386,USD,
+512,2024-05-12,Chipotle,Food,#ed7940,High-Yield Savings,Cash,4535,USD,
+515,2024-05-12,Eastside Apartments,Housing,#4f8fdf,Sapphire Card,ACH Transfer,9788,USD,Gift for Sam
+519,2024-05-12,ParkMobile,Transportation,#45b7a4,Sapphire Card,ACH Transfer,1313,USD,Monthly subscription
+537,2024-05-12,IKEA,Shopping,#e0647f,Sapphire Card,ACH Transfer,9051,USD,
+502,2024-05-13,Blue Bottle Coffee,Food,#ed7940,Everyday Checking,ACH Transfer,7199,USD,Reimbursed by work
+518,2024-05-13,Metro Transit,Transportation,#45b7a4,Amex Platinum,Cash,461,USD,Renewal
+516,2024-05-14,Meridian Property Mgmt,Housing,#4f8fdf,Everyday Checking,Credit Card,11825,USD,Reimbursed by work
+524,2024-05-14,ParkMobile,Transportation,#45b7a4,Sapphire Card,Cash,5386,USD,Split with Maya
+533,2024-05-14,City Water Board,Utilities,#e0b64a,Sapphire Card,Credit Card,10306,USD,Reimbursed by work
+539,2024-05-14,Best Buy,Shopping,#e0647f,High-Yield Savings,Cash,23648,USD,
+540,2024-05-15,IKEA,Shopping,#e0647f,Sapphire Card,Debit Card,27797,USD,Renewal
+521,2024-05-16,Exxon,Transportation,#45b7a4,Amex Platinum,ACH Transfer,4313,USD,Family visit
+546,2024-05-16,Delta Air Lines,Travel,#6f7bd6,Sapphire Card,Credit Card,44605,USD,Date night
+547,2024-05-16,Airbnb,Travel,#6f7bd6,High-Yield Savings,ACH Transfer,2423,USD,Split payment
+530,2024-05-18,AMC Theatres,Entertainment,#b07ce8,Sapphire Card,Cash,10951,USD,
+541,2024-05-18,CVS Pharmacy,Healthcare,#58b86a,High-Yield Savings,Debit Card,3872,USD,Reimbursed by work
+538,2024-05-19,Sephora,Shopping,#e0647f,Sapphire Card,ACH Transfer,24293,USD,Family visit
+503,2024-05-20,Blue Bottle Coffee,Food,#ed7940,Sapphire Card,Debit Card,970,USD,Gift for Sam
+506,2024-05-21,Local Farmers Market,Food,#ed7940,Amex Platinum,Credit Card,13592,USD,
+509,2024-05-21,Blue Bottle Coffee,Food,#ed7940,Sapphire Card,Credit Card,10183,USD,Date night
+513,2024-05-21,Sweetgreen,Food,#ed7940,Amex Platinum,Cash,8385,USD,Renewal
+543,2024-05-21,Dental Studio,Healthcare,#58b86a,Everyday Checking,Credit Card,7288,USD,Home office
+525,2024-05-23,Powell's Books,Entertainment,#b07ce8,Sapphire Card,ACH Transfer,3366,USD,Date night
+544,2024-05-23,CityMed Urgent Care,Healthcare,#58b86a,High-Yield Savings,Cash,27387,USD,Family visit
+548,2024-05-23,Delta Air Lines,Travel,#6f7bd6,Everyday Checking,ACH Transfer,34776,USD,Gift for Sam
+508,2024-05-24,Corner Deli,Food,#ed7940,Amex Platinum,Cash,724,USD,
+522,2024-05-24,Metro Transit,Transportation,#45b7a4,Everyday Checking,Debit Card,7451,USD,Date night
+534,2024-05-24,City Water Board,Utilities,#e0b64a,Amex Platinum,Debit Card,8306,USD,Family visit
+536,2024-05-24,Best Buy,Shopping,#e0647f,Sapphire Card,ACH Transfer,31326,USD,Split payment
+528,2024-05-25,Spotify,Entertainment,#b07ce8,Sapphire Card,Credit Card,5234,USD,Reimbursed by work
+531,2024-05-25,City Water Board,Utilities,#e0b64a,Sapphire Card,ACH Transfer,8547,USD,Home office
+542,2024-05-26,Dental Studio,Healthcare,#58b86a,Everyday Checking,ACH Transfer,9194,USD,
+504,2024-05-27,Levain Bakery,Food,#ed7940,High-Yield Savings,Debit Card,7640,USD,
+523,2024-05-27,Uber,Transportation,#45b7a4,High-Yield Savings,Credit Card,578,USD,Split with Maya
+527,2024-05-27,Powell's Books,Entertainment,#b07ce8,Amex Platinum,Cash,6019,USD,Home office
+535,2024-05-27,REI,Shopping,#e0647f,High-Yield Savings,Credit Card,33443,USD,
+505,2024-05-28,Local Farmers Market,Food,#ed7940,Amex Platinum,ACH Transfer,1217,USD,
+511,2024-05-28,Whole Foods Market,Food,#ed7940,High-Yield Savings,ACH Transfer,4637,USD,Split with Maya
+514,2024-05-28,Levain Bakery,Food,#ed7940,Amex Platinum,ACH Transfer,11130,USD,
+571,2024-06-01,Exxon,Transportation,#45b7a4,Everyday Checking,ACH Transfer,327,USD,
+596,2024-06-01,Marriott,Travel,#6f7bd6,High-Yield Savings,ACH Transfer,1759,USD,Renewal
+575,2024-06-03,Spotify,Entertainment,#b07ce8,Amex Platinum,Debit Card,1106,USD,Gift for Sam
+587,2024-06-03,Target,Shopping,#e0647f,Amex Platinum,Debit Card,17423,USD,Renewal
+566,2024-06-04,Harbor Rentals,Housing,#4f8fdf,Everyday Checking,Debit Card,6540,USD,Monthly subscription
+573,2024-06-04,Shell,Transportation,#45b7a4,Sapphire Card,Cash,2956,USD,Split payment
+592,2024-06-04,Wellness Pharmacy,Healthcare,#58b86a,Everyday Checking,ACH Transfer,22987,USD,
+555,2024-06-06,Whole Foods Market,Food,#ed7940,Amex Platinum,Debit Card,4839,USD,
+556,2024-06-06,Local Farmers Market,Food,#ed7940,Sapphire Card,Cash,6680,USD,Family visit
+582,2024-06-06,ConEdison,Utilities,#e0b64a,Sapphire Card,ACH Transfer,12680,USD,Split payment
+586,2024-06-06,IKEA,Shopping,#e0647f,Everyday Checking,Credit Card,23986,USD,
+588,2024-06-06,Target,Shopping,#e0647f,Everyday Checking,Debit Card,16555,USD,Split payment
+597,2024-06-06,Marriott,Travel,#6f7bd6,High-Yield Savings,ACH Transfer,11353,USD,Home office
+553,2024-06-07,Corner Deli,Food,#ed7940,Sapphire Card,Credit Card,1373,USD,Weekly groceries
+551,2024-06-08,Levain Bakery,Food,#ed7940,Everyday Checking,Cash,13661,USD,Family visit
+589,2024-06-08,Sephora,Shopping,#e0647f,Amex Platinum,Debit Card,34533,USD,Split payment
+558,2024-06-10,Trader Joe's,Food,#ed7940,Amex Platinum,Debit Card,10088,USD,
+561,2024-06-10,Whole Foods Market,Food,#ed7940,Sapphire Card,Cash,6661,USD,
+584,2024-06-10,Verizon Wireless,Utilities,#e0b64a,Amex Platinum,Cash,7843,USD,Renewal
+591,2024-06-11,Dental Studio,Healthcare,#58b86a,Everyday Checking,Credit Card,18001,USD,Weekly groceries
+599,2024-06-11,Airport Parking,Travel,#6f7bd6,Everyday Checking,Credit Card,2031,USD,Split payment
+552,2024-06-12,Levain Bakery,Food,#ed7940,Amex Platinum,Debit Card,1242,USD,Reimbursed by work
+567,2024-06-12,ParkMobile,Transportation,#45b7a4,Sapphire Card,Cash,4296,USD,Gift for Sam
+574,2024-06-12,Shell,Transportation,#45b7a4,Sapphire Card,ACH Transfer,724,USD,Family visit
+583,2024-06-12,Verizon Wireless,Utilities,#e0b64a,High-Yield Savings,ACH Transfer,6497,USD,Home office
+593,2024-06-12,Optical Center,Healthcare,#58b86a,Sapphire Card,Cash,17315,USD,Home office
+598,2024-06-12,Hertz,Travel,#6f7bd6,Amex Platinum,ACH Transfer,49961,USD,Split payment
+557,2024-06-13,Local Farmers Market,Food,#ed7940,Amex Platinum,Cash,10174,USD,Home office
+569,2024-06-13,Exxon,Transportation,#45b7a4,High-Yield Savings,Cash,1632,USD,
+564,2024-06-14,Trader Joe's,Food,#ed7940,Sapphire Card,Credit Card,1191,USD,Reimbursed by work
+568,2024-06-14,Shell,Transportation,#45b7a4,Amex Platinum,Cash,480,USD,Split payment
+576,2024-06-14,Spotify,Entertainment,#b07ce8,Amex Platinum,Debit Card,4067,USD,
+585,2024-06-14,Target,Shopping,#e0647f,Sapphire Card,ACH Transfer,1808,USD,Renewal
+563,2024-06-15,Trader Joe's,Food,#ed7940,Sapphire Card,Cash,697,USD,
+581,2024-06-15,Comcast,Utilities,#e0b64a,Amex Platinum,Debit Card,5742,USD,
+580,2024-06-17,Steam,Entertainment,#b07ce8,High-Yield Savings,Debit Card,1997,USD,Gift for Sam
+570,2024-06-18,Lyft,Transportation,#45b7a4,Amex Platinum,Credit Card,6899,USD,Monthly subscription
+590,2024-06-18,Uniqlo,Shopping,#e0647f,Amex Platinum,Debit Card,12887,USD,Home office
+579,2024-06-19,Spotify,Entertainment,#b07ce8,Amex Platinum,Credit Card,1987,USD,Gift for Sam
+560,2024-06-22,Chipotle,Food,#ed7940,Amex Platinum,Cash,10227,USD,Gift for Sam
+572,2024-06-22,Shell,Transportation,#45b7a4,Sapphire Card,Cash,1045,USD,Date night
+554,2024-06-23,Corner Deli,Food,#ed7940,Everyday Checking,Credit Card,1120,USD,Renewal
+559,2024-06-23,Sweetgreen,Food,#ed7940,Amex Platinum,Cash,7278,USD,
+562,2024-06-23,Shake Shack,Food,#ed7940,Sapphire Card,Debit Card,11851,USD,
+577,2024-06-24,Powell's Books,Entertainment,#b07ce8,High-Yield Savings,Debit Card,3780,USD,Monthly subscription
+594,2024-06-25,CityMed Urgent Care,Healthcare,#58b86a,Sapphire Card,ACH Transfer,1818,USD,Home office
+595,2024-06-25,Delta Air Lines,Travel,#6f7bd6,High-Yield Savings,Cash,12634,USD,
+565,2024-06-26,Homeshield Insurance,Housing,#4f8fdf,Sapphire Card,ACH Transfer,173046,USD,Family visit
+578,2024-06-27,AMC Theatres,Entertainment,#b07ce8,Sapphire Card,ACH Transfer,11467,USD,
+600,2024-06-27,Airport Parking,Travel,#6f7bd6,Sapphire Card,Debit Card,43744,USD,Family visit
