@@ -31,7 +31,7 @@ See [`INSTALL.md`](INSTALL.md) for full setup and usage instructions.
 
 ## Architecture
 
-Full-stack app project, delivered as a complete runnable codebase (40 files). Top-level layout: `assets/`, `components/`, `data/`, `pages/`. `install.sh` takes care of packages and initial data in a single pass; nothing else is required before launching. Installation walkthrough: [`INSTALL.md`](INSTALL.md).
+Full-stack app project, delivered as a complete runnable codebase (29 files). Top-level layout: `assets/`, `components/`, `data/`, `pages/`. `install.sh` takes care of packages and initial data in a single pass; nothing else is required before launching. Installation walkthrough: [`INSTALL.md`](INSTALL.md).
 
 ## Features
 
